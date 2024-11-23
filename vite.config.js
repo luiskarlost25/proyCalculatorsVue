@@ -6,6 +6,8 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/proyCalculatorsVue/', // Cambia esto al nombre de tu repositorio,
+
   plugins: [
     vue(),
     vueDevTools(),
