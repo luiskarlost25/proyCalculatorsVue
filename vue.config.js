@@ -1,4 +1,6 @@
 module.exports = {
+    publicPath:"/proycalculatorvue/",
+
     devServer: {
       host: '0.0.0.0', // Permite conexiones desde cualquier IP
       port: 8080,      // Puerto por defecto (puedes cambiarlo)
