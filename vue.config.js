@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath:"/proycalculatorvue/",
+    publicPath:"./",
 
     devServer: {
       host: '0.0.0.0', // Permite conexiones desde cualquier IP
